@@ -1,0 +1,8 @@
+body {
+  background-color: white;       /* color inicial */
+  transition: background-color 0.5s ease; /* transición suave */
+}
+
+body.cambiado {
+  background-color: lightblue;   /* color al cambiar */
+}
